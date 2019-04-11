@@ -25,6 +25,8 @@ production_url : "http://kaaneroglu.github.io.com/blog"
 BASE_PATH : "http://kaan.ca/blog"
 
 github_username:  kaaneroglu
+instagram_username: talesofkaan
+linkedin_username: kaaneroglu
 
 # Build settings
 markdown: kramdown
